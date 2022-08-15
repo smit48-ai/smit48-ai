@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smit48-ai
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning mongoose and dynamic programing
+- 🌱 I’m currently interested in learning ML
 - 📫 you can reach out to me at smit51680@gmail.com
 
 <!---
