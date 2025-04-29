@@ -1,16 +1,8 @@
 <!-- Hero Section -->
 
-<div style="position: relative;">
-  <img src="assets\BannerBackground.svg">
-
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;">
-    <div style="text-align: center; font-size: 48px; font-weight: bold; color: white;">
-      Hey there 👋, I'm Smit
-    </div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Competitive+Coder" alt="Typing SVG" /></a>
-  </div>
-
-</div>
+<section id="hero">
+  <img src="assets\BannerGif.gif" width="100%"/>
+</section>
 
 <section id="about-me">
   <h2>✨ About Me</h2>
@@ -83,8 +75,8 @@
 
 <section id="github-stats">
   <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; justify-content: space-between; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=smit48-ai&show_icons=true&theme=tokyonight&hide_border=true" width="47%" height="100%" alt="Smit's GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=smit48-ai&theme=tokyonight&hide_border=true" width="47%" height="100%" alt="Smit's GitHub Streak"/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=smit48-ai&show_icons=true&theme=tokyonight&hide_border=true" width="47%" height="200px" alt="Smit's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=smit48-ai&theme=tokyonight&hide_border=true" width="47%" height="200px" alt="Smit's GitHub Streak"/>
   </div>
 </section>
